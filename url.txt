@@ -1,0 +1,5 @@
+基于深度学习的模糊测试种子生成技术
+http://www.c-s-a.org.cn/html/2019/4/6848.html#outline_anchor_12
+
+AFL漏洞挖掘技术漫谈（一）：用AFL开始你的第一次Fuzzing
+https://www.freebuf.com/articles/system/191543.html
